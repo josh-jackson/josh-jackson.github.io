@@ -1,10 +1,4 @@
 name: "Josh Jackson"
 navbar:
   title: "Josh Jackson"
-  left:
-    - text: "home"
-      href: index.html
-    - text: "research"
-      href: research.html
-    - text: "5067"
-      href: 5067.html
+
